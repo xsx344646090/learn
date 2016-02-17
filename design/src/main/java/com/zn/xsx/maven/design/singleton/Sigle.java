@@ -39,4 +39,8 @@ public class Sigle {
 		}
 		return instance;
 	}
+	
+	public static void main(String[] args) {
+		
+	}
 }
